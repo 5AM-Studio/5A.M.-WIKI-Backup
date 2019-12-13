@@ -1,8 +1,8 @@
 ---
-title: Ubuntu
-description: 技术组的同志们请看这里哦~工作室所有的黑科技的用法都在这里哦
+title: Ubuntu命令大全
+description: Ubuntu的基础命令用法，转载https://www.cnblogs.com/linuxws/p/9307187.html
 published: true
-date: 2019-12-13T23:21:14.104Z
+date: 2019-12-13T23:22:10.937Z
 tags: Tech
 ---
 
@@ -15,6 +15,8 @@ Ubuntu可以使用ssh链接，推荐使用xShell
 ![](/img/2-1-1.png)
 
 然后在里面直接使用Linux命令即可！
+
+---
 
 关于命令，常用命令如下：
 一、文件/文件夹管理
