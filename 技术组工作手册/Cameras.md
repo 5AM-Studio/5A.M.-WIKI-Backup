@@ -2,12 +2,13 @@
 title: 监控摄像头
 description: 本文为监控摄像头的使用方式，详细阅读后希望你也会使用工作室的摄像头哦！
 published: true
-date: 2019-12-13T05:37:54.562Z
+date: 2019-12-13T05:46:11.242Z
 tags: Tech
 ---
 
 # 摄(se)像(xiang)头(tou)的打开方式
 工作室一共有两个摄像头（截止至2019.12.13），本文将详细介绍中兴摄像头和小米摄像头的使用方式
+本文中所有摄像头都需要连接5 A.M. Camera这个WIFI，请确保已连接并且处于172.52.\*.*网段
 ## 中兴摄像头
 中兴摄像头需要使用中兴智能家居APP，确保你已经下载！
 首先打开APP，登录账号（已加密）
@@ -35,6 +36,21 @@ tags: Tech
 将设备选择到NAS，然后点击更改
 ![zte-pc6.png](/camera/zte-pc6.png)
 直接选择手动配置，配置如下：
+``IP: 172.52.5.6``
 ``Account: WlRF``
 ``Password: NUFNbmI2NjY=``
 ![zte-pc7.png](/camera/zte-pc7.png)
+然后进入目录视图，选择Camera确定即可！这样你就成功设置了中兴摄像头！
+
+## 米家摄像头
+米家摄像头是~~某次小米商城特价是买的~~因为视角不够买的，每一代工作室负责人交接后请重置一次摄像头！！！**（中兴的不要重置）**
+绑定设备谁都会，这个不讲，直接跳到进入监控视图
+![mi-camera2.jpg](/camera/mi-camera2.jpg)
+点击右上角的三个点，弹出菜单，选择存储管理，然后点击NAS网络存储（其中摄像头内需要有TF卡）
+![mi-camera4.jpg](/camera/mi-camera4.jpg)
+选择群晖服务器（里面的5AM-Synology），然后输入账号
+``Account: TUktQ2FtZXJh``
+``Password: NUFNbmI2NjY=``
+选择Camera文件夹，保存即可
+如果你看到了如下的界面，就代表你成功了！
+![mi-camera7.jpg](/camera/mi-camera7.jpg)
