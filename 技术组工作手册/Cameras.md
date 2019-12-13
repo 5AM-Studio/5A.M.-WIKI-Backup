@@ -2,7 +2,7 @@
 title: 监控摄像头
 description: 本文为监控摄像头的使用方式，详细阅读后希望你也会使用工作室的摄像头哦！
 published: true
-date: 2019-12-13T05:46:46.141Z
+date: 2019-12-13T05:47:32.509Z
 tags: Tech
 ---
 
@@ -44,6 +44,7 @@ tags: Tech
 
 ## 米家摄像头
 米家摄像头是~~某次小米商城特价是买的~~因为视角不够买的，每一代工作室负责人交接后请重置一次摄像头！！！**（中兴的不要重置）**
+**最重要的是：请给用户13268211850摄像头权限！！！**
 绑定设备谁都会，这个不讲，直接跳到进入监控视图
 ![mi-camera2.jpg](/camera/mi-camera2.jpg)
 点击右上角的三个点，弹出菜单，选择存储管理，然后点击NAS网络存储（其中摄像头内需要有TF卡）
@@ -53,4 +54,4 @@ tags: Tech
 ``Password: NUFNbmI2NjY=``
 选择Camera文件夹，保存即可
 如果你看到了如下的界面，就代表你成功了！
-![mi-camera8.jpg](/camera/mi-camera8.jpg)
+![mi-camera8.png](/camera/mi-camera8.png)
