@@ -2,7 +2,7 @@
 title: Ubuntu
 description: 技术组的同志们请看这里哦~工作室所有的黑科技的用法都在这里哦
 published: true
-date: 2019-12-13T04:56:15.178Z
+date: 2019-12-13T04:57:29.305Z
 tags: Tech
 ---
 
