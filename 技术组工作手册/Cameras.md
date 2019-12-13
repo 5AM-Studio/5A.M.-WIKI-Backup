@@ -2,7 +2,7 @@
 title: 监控摄像头
 description: 本文为监控摄像头的使用方式，详细阅读后希望你也会使用工作室的摄像头哦！
 published: true
-date: 2019-12-13T05:46:37.323Z
+date: 2019-12-13T05:46:46.141Z
 tags: Tech
 ---
 
