@@ -2,8 +2,8 @@
 title: Ubuntu
 description: 技术组的同志们请看这里哦~工作室所有的黑科技的用法都在这里哦
 published: true
-date: 2019-12-07T11:43:29.065Z
-tags: 
+date: 2019-12-13T04:56:15.178Z
+tags: Tech
 ---
 
 # 5 A.M. Studio 技术组工作手册 - Ubuntu
@@ -23,7 +23,7 @@ tags:
 Ubuntu里面内置了srs（直播服务器），使用方法如下：
 
 ```bash
-$ cd ~/home/persia/Github/srs/trunk
+$ cd Github/srs/trunk
 $ sudo ./objs/srs -c conf/srs.conf
 ```
 
