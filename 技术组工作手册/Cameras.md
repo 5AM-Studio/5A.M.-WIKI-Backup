@@ -2,7 +2,7 @@
 title: 监控摄像头
 description: 本文为监控摄像头的使用方式，详细阅读后希望你也会使用工作室的摄像头哦！
 published: true
-date: 2019-12-14T09:15:33.621Z
+date: 2019-12-14T09:33:59.776Z
 tags: Tech
 ---
 
@@ -54,4 +54,4 @@ tags: Tech
 ``Password: NUFNbmI2NjY=``
 选择Camera文件夹，保存即可
 如果你看到了如下的界面，就代表你成功了！
-![mi-camera8.png](/camera/mi-camera8.png)
+![mi-camera7.jpg](/camera/mi-camera7.jpg)
