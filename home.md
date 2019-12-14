@@ -2,7 +2,7 @@
 title: 首页
 description: 5 A.M. Wiki - Copyright © 2019 GamerNoTitle, Powered By Heroku
 published: true
-date: 2019-12-13T23:18:12.167Z
+date: 2019-12-14T06:48:48.600Z
 tags: home
 ---
 
@@ -35,7 +35,7 @@ tags: home
 
 <section style="display: inline-block;width: 96%;border-style: solid;border-width: 1px 0px 0px 10px;padding: 0px 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-color: rgb(45, 147, 86);border-radius: 0px;box-sizing: border-box;"><section class="" style="box-sizing: border-box;" powered-by="xiumi.us"><section style="margin: 10px 0% 0px;box-sizing: border-box;"><section style="box-sizing: border-box;"><p style="margin: 0px;padding: 0px;box-sizing: border-box;">    工作室初代成员 PS:描述来源于<a href="https://mp.weixin.qq.com/s/pYRPY5z04KSgm_aG8hL9Qw">这里</a><br style="box-sizing: border-box;"></p></section></section></section></section> 
 
-> 啥都会搞、编辑很屌的Leader	——yuleng
+> 啥都会搞、编辑很屌的Leader	——<a href="https://www.yuleng.top">yuleng (yuleng.top)</a>
 {.is-info}
 
 > 技术满分、还能开一开无人机的程序猿	 ——<a href="http://bili33.top">Gamer.bili (GamerNoTitle)</a>
